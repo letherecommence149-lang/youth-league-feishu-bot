@@ -12,3 +12,4 @@ data/
 logs/
 .runtime/
 tools/*.exe
+docs/_*/
